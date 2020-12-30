@@ -1,0 +1,3 @@
+ini adalah remote
+ini adalah remote yang di push
+after remove
